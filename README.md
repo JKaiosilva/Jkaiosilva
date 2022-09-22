@@ -1,6 +1,6 @@
 ### Saudações! Eu me chamo Kaio Silva👋
 
-Atualmente estudo programação, focando em Front-end
+Atualmente estudo programação Full-stack
 <div>
 Migrando da área de comunicações para TI
   </div>
