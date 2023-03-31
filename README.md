@@ -1,6 +1,5 @@
 ### Saudações! Eu me chamo Kaio Silva👋
 
-![Uploading IMG_20230331_101547.jpg…]()
 
 Atualmente estudo programação Full-stack
 <div>
