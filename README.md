@@ -3,6 +3,7 @@
 
 <h4>Possuo conhecimento em:</h4>
 
+<code>Java</code>
 <code>JavaScript</code>
 <code>NodeJS</code>
 <code>BabylonJS</code>
