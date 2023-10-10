@@ -1,10 +1,16 @@
 <h1 align="center">Olá, me chamo Kaio Silva</h1>
 <h3 align="center">Sou desenvolvedor Full-Stack no Brasil</h3>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKaiosilva)](https://github.com/anuraghazra/github-readme-stats)
-<code>Java</code> <code>JavaScript</code> <code>Node.js</code> <code>Babylon.js.</code> <code>MongoDB</code> <code>MySQL</code> <code>Handlebars</code> <code>Bootstrap</code>
+<div align="center">
+<a href="https://github.com/Jkaiosilva">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkaiosilva&layout=compact&langs_count=7&theme=dracula"/>
+  <br>
+  <br>
+  <code>Java</code> <code>JavaScript</code> <code>Node.js</code> <code>Babylon.js.</code> <code>MongoDB</code> <code>MySQL</code> <code>Handlebars</code> <code>Bootstrap</code>
+</div>
 <br>
 <br>
+  
 ## Sobre Mim
 
 - Iniciado em Comunicação Social na Marinha do Brasil em 2017, com ênfase em tecnologia e comunicação.
