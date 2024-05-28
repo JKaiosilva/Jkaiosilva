@@ -22,11 +22,15 @@
 
 ## Experiência Profissional
 
-### Rádio Marinha do Pantanal (2018 - Atual)
+### Rádio Marinha do Pantanal (2018 - 2024)
 - Responsável pela área de informática e produção de Spots.
 - Liderança em projetos de automação web para cadastro de documentos da Capitania do Pantanal.
 - Desenvolvimento de um projeto de Carometro e várias outras aplicações de automação.
 
+### 3D Informática (2024 - Atual)
+- Suporte de sistemas de automação comercial (SGBR, ClipStore, Controle na mão, clip360, ZetaWeb).
+- Auxiliar de questões fiscais relacionadas a sistemas de emissão de notas fiscais e cupons fiscais.
+  
 ## Objetivo
 
 Minha missão é aplicar meu conhecimento em tecnologia e comunicação para criar soluções eficazes e promover um ambiente de trabalho colaborativo e inovador.
